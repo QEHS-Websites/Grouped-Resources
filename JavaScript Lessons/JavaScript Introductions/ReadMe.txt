@@ -1,1 +1,0 @@
-Linear Code, then functions
